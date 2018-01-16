@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\yii2x\user\ui\adminlte;
+namespace \yii2x\user\ui\adminlte;
 
 use \yii\base\BootstrapInterface;
 
