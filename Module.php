@@ -1,6 +1,6 @@
 <?php
 
-namespace \yii2x\user\ui\adminlte;
+namespace yii2x\user\ui\adminlte;
 
 /**
  * enterprise module definition class
